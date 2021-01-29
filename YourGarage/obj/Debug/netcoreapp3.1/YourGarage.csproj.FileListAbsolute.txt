@@ -1,0 +1,12 @@
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\bin\Debug\netcoreapp3.1\YourGarage.exe
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\bin\Debug\netcoreapp3.1\YourGarage.deps.json
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\bin\Debug\netcoreapp3.1\YourGarage.runtimeconfig.json
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\bin\Debug\netcoreapp3.1\YourGarage.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\bin\Debug\netcoreapp3.1\YourGarage.dll
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\bin\Debug\netcoreapp3.1\YourGarage.pdb
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\obj\Debug\netcoreapp3.1\YourGarage.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\obj\Debug\netcoreapp3.1\YourGarage.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\obj\Debug\netcoreapp3.1\YourGarage.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\obj\Debug\netcoreapp3.1\YourGarage.dll
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\obj\Debug\netcoreapp3.1\YourGarage.pdb
+C:\Users\rmpfo\source\repos\YourGarage\YourGarage\obj\Debug\netcoreapp3.1\YourGarage.genruntimeconfig.cache
